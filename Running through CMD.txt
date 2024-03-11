@@ -1,0 +1,4 @@
+To run the project in the cmd
+mvn clean test -DsuiteXmlFile="D:/D Driver Back-up Noc-30-2023/Learning/Automation Notes Preparation/Automation_WorkSpace/testng.xml"
+
+mvn clean test -DsuiteXmlFile="file-path-name-upto/testNGfile.xml"
